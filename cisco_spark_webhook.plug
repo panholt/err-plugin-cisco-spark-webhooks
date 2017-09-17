@@ -1,0 +1,10 @@
+[Core]
+name = Cisco Spark Webhook
+module = cisco_spark_webhook
+
+[Documentation]
+description = An Errbot plugin to process webhook events from Cisco Spark
+
+[Python]
+version = 3
+
