@@ -1,5 +1,5 @@
 [Core]
-name = Cisco Spark Webhook
+name = CiscoSparkWebhook
 module = cisco_spark_webhook
 
 [Documentation]
